@@ -24,6 +24,7 @@ function scientific_calculator()
 
     while true
 
+        printf('\n')
         choice = input('Enter your choice (1-20): ');
 
         switch choice
